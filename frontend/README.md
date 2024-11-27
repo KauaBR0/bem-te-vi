@@ -1,13 +1,12 @@
-# 📝 Accessible Todo Application
+# 📝 Todo Application
 
 ## 🚀 Project Overview
 
-This is a modern, accessible Todo application built with React, Remix, and React Aria, focusing on providing an exceptional user experience with top-tier accessibility.
+This is a modern, Todo application built with React, Remix, and React Aria
 
 ### 🌟 Key Features
 
 - 🔐 Secure Authentication
-- ♿ Accessibility-First Design
 - 🖥️ Responsive User Interface
 - 🔍 Todo Search and Filtering
 
