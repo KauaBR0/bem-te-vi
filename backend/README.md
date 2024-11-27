@@ -64,9 +64,9 @@ npm run dev
 
 ### Authentication Routes
 - `POST api/auth/register` - Register a new user
-  - Body: `{ email: string, password: string }`
+  - Body: `{ email: string, username:string, password: string }`
 - `POST api/auth/login` - Login user
-  - Body: `{ email: string, password: string }`
+  - Body: `{ email: string, username:string, password: string }`
 
 ### Todo Routes
 - `GET api/todos` - Get all todos (requires authentication)
