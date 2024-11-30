@@ -1,4 +1,4 @@
-# My-Test API
+# Backend API
 
 A Node.js backend API built with Hono.js, PostgreSQL, and Drizzle ORM, featuring authentication and todo management.
 
@@ -25,7 +25,7 @@ A Node.js backend API built with Hono.js, PostgreSQL, and Drizzle ORM, featuring
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd my-test
+cd backend
 ```
 
 2. Install dependencies:
